@@ -1,2 +1,2 @@
 # kpsh.github.io
-Portfolio in progress
+Portfolio
