@@ -1,0 +1,11 @@
+{
+	// Required in vscode-eslint < v3.0.10 only
+	"eslint.useFlatConfig": true,
+
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "always"
+	},
+	"i18n-ally.localesPaths": [
+		"locales"
+	]
+}

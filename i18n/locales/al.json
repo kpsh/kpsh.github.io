@@ -1,0 +1,45 @@
+{
+  "welcome": "Mirësevini në aplikacion",
+  "aboutMe": {
+    "greeting": "Përshëndetje, unë jam",
+    "role": "Inxhinier Softueri",
+    "country": "nga Shqipëria",
+    "description": "i specializuar në realizimin e ideve inovative. Me ekspertizë në",
+    "and": "dhe",
+    "techDescription": "Unë krijoj ndërfaqe web tërheqëse dhe të përdorshme, duke siguruar që çdo projekt të duket i shkëlqyer dhe të ofrojë një përvojë të pakomplikuar për përdoruesin.",
+    "personalInterests": "Përtej karrierës time profesionale, më pëlqen të udhëtoj, të bëj bicikletë, të dëgjoj podcast dhe të shoh dokumentarë të shkurtër. Këto interesa ushqejnë kuriozitetin tim dhe pasurojnë perspektivën që sjell në punën time.",
+    "callToAction": "Nëse po kërkoni dikë të përkushtuar për të gjeneruar ide dhe për t'i kthyer ato në realitet, le të lidhemi.",
+    "connectButton": "Le të Lidhemi"
+  },
+  "error": "Gabim!",
+  "navigation": {
+    "about": "Rreth Meje",
+    "skills": "Aftësi & Mjete",
+    "projects": "Projekte",
+    "contact": "Më Kontaktoni"
+  },
+  "theme": {
+    "switchTheme": "Ndrysho temën",
+    "switchLanguage": "Ndrysho gjuhën",
+    "changeColor": "Ndrysho ngjyrën",
+    "modes": {
+      "light": "E çelë",
+      "dark": "E errët"
+    },
+    "languages": {
+      "al": "Shqip",
+      "en": "Anglisht",
+      "fr": "Frengjisht"
+    },
+    "colors": {
+      "sky": "Ngj. qielli",
+      "red": "E kuqe",
+      "teal": "Blu e gjelbër",
+      "yellow": "E verdhë"
+    }
+  },
+  "common": {
+    "wip": "Pune në Progres",
+    "demo": "Demo"
+  }
+}

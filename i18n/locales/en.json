@@ -1,0 +1,47 @@
+{
+  "welcome": "Welcome to the app",
+  "aboutMe": {
+    "greeting": "Hi, I'm",
+    "role": "Software Engineer",
+    "country": "from Albania",
+    "description": "specializing in bringing innovative ideas to life. With expertise in",
+    "and": "and",
+    "techDescription": "I create visually appealing and user-friendly web interfaces, ensuring every project looks great and delivers a seamless user experience.",
+    "personalInterests": "Beyond my professional journey, I enjoy traveling, cycling, listening to podcasts, and watching short documentaries. These interests fuel my curiosity and enrich the perspective I bring to my work.",
+    "callToAction": "If you're looking for someone dedicated to brainstorming and turning ideas into reality, let's connect.",
+    "connectButton": "Let's Connect"
+  },
+  "error": "Error!",
+  "navigation": {
+    "about": "About Me",
+    "skills": "Skills & Tools",
+    "projects": "Projects",
+    "contact": "Contact Me"
+  },
+  "theme": {
+    "switchTheme": "Toggle theme",
+    "switchHelp": "Show help modal",
+    "switchLanguage": "Switch Language",
+    "changeColor": "Change Color",
+    "help": "Help",
+    "modes": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "languages": {
+      "al": "Albanian",
+      "en": "English",
+      "fr": "French"
+    },
+    "colors": {
+      "sky": "Sky",
+      "red": "Red",
+      "teal": "Teal",
+      "yellow": "Yellow"
+    }
+  },
+  "common": {
+    "wip": "Work in Progress",
+    "demo": "Demo"
+  }
+}

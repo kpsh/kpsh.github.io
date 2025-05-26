@@ -1,0 +1,93 @@
+[
+  {
+    "id": "manage-taxi",
+    "title": "Manage Taxi",
+    "description": {
+      "en": "A platform that streamlines daily operations for taxi companies: route management, spendings, reports, employee and fleet tools, real-time features, and more.",
+      "fr": "Une plateforme qui rationalise les opérations quotidiennes des compagnies de taxi : gestion des trajets, dépenses, rapports, outils pour les employés et la flotte, fonctionnalités en temps réel, etc.",
+      "al": "Një platformë që thjeshton operacionet ditore për kompanitë e taksive: menaxhim i rrugëve, shpenzime, raporte, mjete për punonjësit dhe flotën, veçori në kohë reale, dhe më shumë."
+    },
+    "url": "https://manage.taxi",
+    "tags": ["nuxt", "vue", "supabase", "auth", "postgress", "internationalization", "RLS", "sockets", "RestAPI", "cron jobs"],
+    "source": "local",
+    "image": "https://manage.taxi/screenshot.png"
+  },
+  {
+    "id": "vasku-construction",
+    "title": "Vasku Construction",
+    "description": {
+      "en": "A trilingual website for a construction company based in London, Athens, and Tirana. Features animations, UI/UX, and showcases services and projects.",
+      "fr": "Un site trilingue pour une entreprise de construction basée à Londres, Athènes et Tirana. Comprend des animations, UI/UX et met en valeur les services et projets.",
+      "al": "Një faqe interneti tre-gjuhëshe për një kompani ndërtimi me baza në Londër, Athinë dhe Tiranë. Paraqet animacione, UI/UX dhe shfaq shërbimet dhe projektet."
+    },
+    "url": "https://kpsh.github.io/vasku-construction",
+    "tags": ["nuxt", "vue", "nuxt/ui", "tailwind", "GSAP", "vue-router", "Zod"],
+    "source": "local",
+    "image": "https://kpsh.github.io/vasku-construction/screenshot.png"
+  },
+  {
+    "id": "logintaxi",
+    "title": "Login Taxi",
+    "description": {
+      "en": "A taxi company website with animations, performance optimizations, translations, booking via WhatsApp API, and Google Maps integration.",
+      "fr": "Site Web d'une compagnie de taxi avec animations, optimisations de performances, traductions, réservation via API WhatsApp, et intégration Google Maps.",
+      "al": "Faqe interneti për një kompani taksish me animacione, performancë të përmirësuar, përkthime, rezervime përmes WhatsApp API dhe integrim me Google Maps."
+    },
+    "url": "https://logintaxi.com",
+    "tags": ["vue", "vue-i18n", "daisyui", "tailwind", "pinia"],
+    "source": "local",
+    "image": "https://logintaxi.com/screenshot.png"
+  },
+  {
+    "id": "hopla",
+    "title": "Hopla",
+    "description": {
+      "en": "A React Native component and utility pack to build apps faster with a beautiful, developer-friendly experience. 'Hopla' comes from Greek meaning 'tool' or 'weapon'.",
+      "fr": "Un pack de composants et utilitaires React Native pour créer des apps rapidement avec une belle expérience développeur. 'Hopla' vient du grec et signifie 'outil' ou 'arme'.",
+      "al": "Një paketë komponentësh dhe veglash për React Native për të ndërtuar aplikacione më shpejt me përvojë të bukur zhvilluesi. 'Hopla' vjen nga greqishtja dhe do të thotë 'mjet' ose 'armë'."
+    },
+    "url": "wip",
+    "tags": ["react", "expo", "React Native", "Storybook.js", "CSS", "TypeScript", "ESLint", "Citty", "WIP"],
+    "source": "local",
+    "image": "https://hopla.dev/screenshot.png"
+  },
+  {
+    "id": "nuxt-ocr",
+    "title": "Nuxt OCR",
+    "description": {
+      "en": "OCR module for Nuxt built on Tesseract.js, offering plug-and-play components and composables. Open-source release scheduled for June 5, 2025.",
+      "fr": "Module OCR pour Nuxt basé sur Tesseract.js, avec composants et composables prêts à l'emploi. Sortie open source prévue le 5 juin 2025.",
+      "al": "Modul OCR për Nuxt bazuar në Tesseract.js, me komponentë dhe composables të gatshëm. Publikimi open source planifikohet për 5 qershor 2025."
+    },
+    "url": "wip",
+    "tags": ["nuxt", "typescript", "tesseract-js", "WIP"],
+    "source": "local",
+    "image": "https://nuxt-ocr.dev/screenshot.png"
+  },
+  {
+    "id": "taksia-ime",
+    "title": "Taksia Ime",
+    "description": {
+      "en": "Design workflow for a cross-platform taxi app in Albania. Includes driver and rider UI, animations, and Figma wireframes and prototypes.",
+      "fr": "Workflow de design pour une application taxi multiplateforme en Albanie. Comprend l'interface conducteur et passager, animations, maquettes Figma et prototypes.",
+      "al": "Proces dizajni për një aplikacion taksie ndër-platformë në Shqipëri. Përfshin UI për shoferin dhe pasagjerin, animacione dhe prototipe në Figma."
+    },
+    "url": "https://www.figma.com/design/uXva80isj4Ul760HrvhiTk/design-for-apps--Copy-?node-id=3-2&t=7BvqF7CYPiKlBtgV-1",
+    "tags": ["demo", "figma", "design components", "wireframing", "prototyping", "animations", "view transitions"],
+    "source": "local",
+    "image": "https://taksia-ime.com/screenshot.png"
+  },
+  {
+    "id": "dalim-webapp",
+    "title": "Dalim Web App",
+    "description": {
+      "en": "Built during a 2-hour hackathon. A simple web app using a preferred JS framework, router, and basic UI components.",
+      "fr": "Développé lors d’un hackathon de 2 heures. Une application Web simple utilisant un framework JS préféré, un routeur et des composants UI de base.",
+      "al": "Ndërtuar gjatë një hackathon-i 2 orësh. Një aplikacion i thjeshtë web me një framework JS të preferuar, router dhe komponentë bazë UI."
+    },
+    "url": "https://dalim.web.app",
+    "tags": ["nuxt", "vue-router", "nuxt/ui", "typescript", "demo"],
+    "source": "local",
+    "image": "https://dalim.web.app/screenshot.png"
+  }
+]

@@ -1,0 +1,657 @@
+{
+  "name": "Skills",
+  "type": "parent",
+  "options": {
+    "closeable": false,
+    "draggable": false
+  },
+  "children": [
+    {
+      "name": "Frontend",
+      "type": "category",
+      "groups": [
+        "Frameworks",
+        "UI Libraries",
+        "CSS Frameworks",
+        "Other Libraries"
+      ],
+      "options": {
+        "closeable": true,
+        "draggable": false
+      },
+      "skills": [
+        {
+          "name": "Vue.js",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "Progressive JavaScript framework for building user interfaces",
+          "url": "https://vuejs.org/",
+          "icon": "i-logos-vue"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "Vue.js framework for creating universal applications",
+          "url": "https://nuxt.com/",
+          "icon": "i-logos-nuxt-icon"
+        },
+        {
+          "name": "React.js",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "JavaScript library for building user interfaces",
+          "url": "https://react.dev/",
+          "icon": "i-logos-react"
+        },
+        {
+          "name": "React Native",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "Framework for building native mobile applications with Expo",
+          "url": "https://reactnative.dev/",
+          "icon": "i-logos-react"
+        },
+        {
+          "name": "Nuxt UI",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Fully styled and customizable components for Nuxt",
+          "url": "https://ui.nuxt.com/",
+          "icon": "i-logos-nuxt-icon"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Popular CSS framework for responsive websites",
+          "url": "https://getbootstrap.com/",
+          "icon": "i-logos-bootstrap"
+        },
+        {
+          "name": "Ant Design",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Enterprise-class UI design language",
+          "url": "https://ant.design/",
+          "icon": "i-logos-ant-design"
+        },
+        {
+          "name": "Material UI",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "React components based on Google Material Design",
+          "url": "https://mui.com/material-ui/",
+          "icon": "i-logos-material-ui"
+        },
+        {
+          "name": "Quasar",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Vue.js framework for building responsive websites",
+          "url": "https://quasar.dev/",
+          "icon": "i-vscode-icons-file-type-quasar"
+        },
+        {
+          "name": "DaisyUI",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Tailwind CSS component library",
+          "url": "https://daisyui.com/",
+          "icon": "i-logos-daisyui-icon"
+        },
+        {
+          "name": "Flowbite",
+          "type": "skill",
+          "inGroup": ["UI Libraries"],
+          "description": "Tailwind CSS component library",
+          "url": "https://flowbite.com/",
+          "icon": "i-flowbite-flowbite-solid"
+        },
+        {
+          "name": "UnoCSS",
+          "type": "skill",
+          "inGroup": ["CSS Frameworks"],
+          "description": "Instant on-demand Atomic CSS engine",
+          "url": "https://unocss.dev/",
+          "icon": "i-logos-unocss"
+        },
+        {
+          "name": "TailwindCSS",
+          "type": "skill",
+          "inGroup": ["CSS Frameworks"],
+          "description": "Utility-first CSS framework",
+          "url": "https://tailwindcss.com/",
+          "icon": "i-logos-tailwindcss-icon"
+        },
+        {
+          "name": "NativeWind",
+          "type": "skill",
+          "inGroup": ["CSS Frameworks"],
+          "description": "TailwindCSS for React Native",
+          "url": "https://www.nativewind.dev/",
+          "icon": "i-logos-react"
+        },
+        {
+          "name": "jQuery",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Fast and feature-rich JavaScript library",
+          "url": "https://jquery.com/",
+          "icon": "i-logos-jquery"
+        },
+        {
+          "name": "Pinia",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Vue.js state management solution",
+          "url": "https://pinia.vuejs.org/",
+          "icon": "i-logos-pinia"
+        },
+        {
+          "name": "Zustand",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Small, fast state management solution",
+          "url": "https://zustand-demo.pmnd.rs/",
+          "icon": "i-fluent-emoji-bear"
+        },
+        {
+          "name": "MobX",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Simple, scalable state management",
+          "url": "https://mobx.js.org/",
+          "icon": "i-logos-mobx"
+        },
+        {
+          "name": "Axios",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Promise-based HTTP client",
+          "url": "https://axios-http.com/",
+          "icon": "i-logos-axios"
+        },
+        {
+          "name": "VueUse",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Collection of Vue Composition Utilities",
+          "url": "https://vueuse.org/",
+          "icon": "i-logos-vueuse"
+        },
+        {
+          "name": "Zod",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "TypeScript-first schema validation",
+          "url": "https://zod.dev/",
+          "icon": "i-logos-zod"
+        },
+        {
+          "name": "Three.js",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "3D graphics library for the web",
+          "url": "https://threejs.org/",
+          "icon": "i-logos-threejs"
+        },
+        {
+          "name": "D3.js",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Data visualization library",
+          "url": "https://d3js.org/",
+          "icon": "i-logos-d3"
+        },
+        {
+          "name": "Chart.js",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Simple yet flexible JavaScript charting",
+          "url": "https://www.chartjs.org/",
+          "icon": "i-logos-chartjs"
+        },
+        {
+          "name": "GSAP",
+          "type": "skill",
+          "inGroup": ["Other Libraries"],
+          "description": "Professional-grade animation for the web",
+          "url": "https://gsap.com/",
+          "icon": "i-logos-greensock-icon"
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "type": "category",
+      "groups": [
+        "Frameworks",
+        "BaaS",
+        "Databases"
+      ],
+      "options": {
+        "closeable": true,
+        "draggable": false
+      },
+      "skills": [
+        {
+          "name": "Express.js",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "Fast, unopinionated web framework for Node.js",
+          "url": "https://expressjs.com/",
+          "icon": "i-logos-nodejs-icon"
+        },
+        {
+          "name": "Spring Framework",
+          "type": "skill",
+          "inGroup": ["Frameworks"],
+          "description": "Application framework for Java platform",
+          "url": "https://spring.io/",
+          "icon": "i-logos-spring-icon"
+        },
+        {
+          "name": "Supabase",
+          "type": "skill",
+          "inGroup": ["BaaS"],
+          "description": "Open source Firebase alternative",
+          "url": "https://supabase.com/",
+          "icon": "i-logos-supabase-icon"
+        },
+        {
+          "name": "Appwrite",
+          "type": "skill",
+          "inGroup": ["BaaS"],
+          "description": "Open-source backend server",
+          "url": "https://appwrite.io/",
+          "icon": "i-logos-appwrite-icon"
+        },
+        {
+          "name": "Firebase",
+          "type": "skill",
+          "inGroup": ["BaaS"],
+          "description": "Google's mobile and web application platform",
+          "url": "https://firebase.google.com/",
+          "icon": "i-logos-firebase"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "skill",
+          "inGroup": ["Databases"],
+          "description": "Advanced open source database",
+          "url": "https://www.postgresql.org/",
+          "icon": "i-logos-postgresql"
+        },
+        {
+          "name": "MongoDB",
+          "type": "skill",
+          "inGroup": ["Databases"],
+          "description": "Document-oriented database program",
+          "url": "https://www.mongodb.com/",
+          "icon": "i-logos-mongodb-icon"
+        },
+        {
+          "name": "MySQL",
+          "type": "skill",
+          "inGroup": ["Databases"],
+          "description": "Open-source relational database",
+          "url": "https://www.mysql.com/",
+          "icon": "i-logos-mysql-icon"
+        }
+      ]
+    },
+    {
+      "name": "Languages",
+      "type": "category",
+      "groups": [
+        "markup",
+        "programming",
+        "styling"
+      ],
+      "options": {
+        "closeable": true,
+        "draggable": false
+      },
+      "skills": [
+        {
+          "name": "HTML",
+          "type": "skill",
+          "inGroup": ["markup"],
+          "description": "Standard markup language for web pages",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+          "icon": "i-logos-html-5"
+        },
+        {
+          "name": "Markdown",
+          "type": "skill",
+          "inGroup": ["markup"],
+          "description": "Lightweight markup language",
+          "url": "https://www.markdownguide.org/",
+          "icon": "i-logos-markdown"
+        },
+        {
+          "name": "TypeScript",
+          "type": "skill",
+          "inGroup": ["programming"],
+          "description": "Typed superset of JavaScript",
+          "url": "https://www.typescriptlang.org/",
+          "icon": "i-logos-typescript-icon"
+        },
+        {
+          "name": "JavaScript",
+          "type": "skill",
+          "inGroup": ["programming"],
+          "description": "Programming language of the Web",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "icon": "i-logos-javascript"
+        },
+        {
+          "name": "GDScript",
+          "type": "skill",
+          "inGroup": ["programming"],
+          "description": "Scripting language for Godot Engine",
+          "url": "https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/",
+          "icon": "i-logos-godot-icon"
+        },
+        {
+          "name": "Java",
+          "type": "skill",
+          "inGroup": ["programming"],
+          "description": "General-purpose programming language",
+          "url": "https://www.java.com/",
+          "icon": "i-logos-java"
+        },
+        {
+          "name": "CSS",
+          "type": "skill",
+          "inGroup": ["styling"],
+          "description": "Style sheet language for web pages",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "icon": "i-logos-css-3"
+        },
+        {
+          "name": "SASS/SCSS",
+          "type": "skill",
+          "inGroup": ["styling"],
+          "description": "CSS preprocessor scripting language",
+          "url": "https://sass-lang.com/",
+          "icon": "i-logos-sass"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "type": "category",
+      "groups": [
+        "practices",
+        "software"
+      ],
+      "options": {
+        "closeable": true,
+        "draggable": false
+      },
+      "skills": [
+        {
+          "name": "Wireframing",
+          "type": "skill",
+          "inGroup": ["practices"],
+          "description": "Creating basic layout of interfaces",
+          "url": "https://www.interaction-design.org/literature/topics/wireframing",
+          "icon": "i-heroicons-window"
+        },
+        {
+          "name": "Prototyping",
+          "type": "skill",
+          "inGroup": ["practices"],
+          "description": "Creating interactive mockups",
+          "url": "https://www.interaction-design.org/literature/topics/prototyping",
+          "icon": "i-heroicons-cursor-arrow-rays-solid"
+        },
+        {
+          "name": "Figma",
+          "type": "skill",
+          "inGroup": ["software"],
+          "description": "Collaborative interface design tool",
+          "url": "https://www.figma.com/",
+          "icon": "i-logos-figma"
+        },
+        {
+          "name": "Blender",
+          "type": "skill",
+          "inGroup": ["software"],
+          "description": "3D computer graphics software",
+          "url": "https://www.blender.org/",
+          "icon": "i-logos-blender"
+        },
+        {
+          "name": "Adobe XD",
+          "type": "skill",
+          "inGroup": ["software"],
+          "description": "Vector-based UI/UX design tool",
+          "url": "https://www.adobe.com/products/xd.html",
+          "icon": "i-logos-adobe-xd"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "skill",
+          "inGroup": ["software"],
+          "description": "Raster graphics editor",
+          "url": "https://www.adobe.com/products/photoshop.html",
+          "icon": "i-logos-adobe-photoshop"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "type": "skill",
+          "inGroup": ["software"],
+          "description": "Vector graphics editor",
+          "url": "https://www.adobe.com/products/illustrator.html",
+          "icon": "i-logos-adobe-illustrator"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Services",
+      "type": "category",
+      "groups": [
+        "Version Control",
+        "Code Quality",
+        "development",
+        "Operating Systems",
+        "Project Management",
+        "CMS",
+        "payment"
+      ],
+      "options": {
+        "closeable": true,
+        "draggable": false
+      },
+      "skills": [
+        {
+          "name": "Git",
+          "type": "skill",
+          "inGroup": ["Version Control"],
+          "description": "Distributed version control system",
+          "url": "https://git-scm.com/",
+          "icon": "i-logos-git-icon"
+        },
+        {
+          "name": "GitHub Actions",
+          "type": "skill",
+          "inGroup": ["Version Control"],
+          "description": "Automation and CI/CD platform",
+          "url": "https://github.com/features/actions",
+          "icon": "i-logos-github-actions"
+        },
+        {
+          "name": "ESLint",
+          "type": "skill",
+          "inGroup": ["Code Quality"],
+          "description": "JavaScript code linting utility",
+          "url": "https://eslint.org/",
+          "icon": "i-logos-eslint"
+        },
+        {
+          "name": "Prettier",
+          "type": "skill",
+          "inGroup": ["Code Quality"],
+          "description": "Opinionated code formatter",
+          "url": "https://prettier.io/",
+          "icon": "i-logos-prettier"
+        },
+        {
+          "name": "Webpack",
+          "type": "skill",
+          "inGroup": ["Code Quality"],
+          "description": "Static module bundler",
+          "url": "https://webpack.js.org/",
+          "icon": "i-logos-webpack"
+        },
+        {
+          "name": "Vite",
+          "type": "skill",
+          "inGroup": ["Code Quality"],
+          "description": "Next generation frontend tooling",
+          "url": "https://vitejs.dev/",
+          "icon": "i-logos-vitejs"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "skill",
+          "inGroup": ["development"],
+          "description": "Code editing. Redefined.",
+          "url": "https://code.visualstudio.com/",
+          "icon": "i-logos-visual-studio-code"
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "type": "skill",
+          "inGroup": ["development"],
+          "description": "Capable and ergonomic Java IDE",
+          "url": "https://www.jetbrains.com/idea/",
+          "icon": "i-logos-intellij-idea"
+        },
+        {
+          "name": "Fedora",
+          "type": "skill",
+          "inGroup": ["Operating Systems"],
+          "description": "Linux-based operating system",
+          "url": "https://getfedora.org/",
+          "icon": "i-logos-fedora"
+        },
+        {
+          "name": "Linux Mint",
+          "type": "skill",
+          "inGroup": ["Operating Systems"],
+          "description": "Community-driven Linux distribution",
+          "url": "https://linuxmint.com/",
+          "icon": "i-logos-linux-mint"
+        },
+        {
+          "name": "Windows",
+          "type": "skill",
+          "inGroup": ["Operating Systems"],
+          "description": "Microsoft Windows operating system",
+          "url": "https://www.microsoft.com/windows",
+          "icon": "i-logos-microsoft-windows-icon"
+        },
+        {
+          "name": "GitHub",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Development platform and version control",
+          "url": "https://github.com/",
+          "icon": "i-logos-github-icon"
+        },
+        {
+          "name": "Jira",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Issue and project tracking software",
+          "url": "https://www.atlassian.com/software/jira",
+          "icon": "i-logos-jira"
+        },
+        {
+          "name": "Confluence",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Team collaboration software",
+          "url": "https://www.atlassian.com/software/confluence",
+          "icon": "i-logos-confluence"
+        },
+        {
+          "name": "Notion",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "All-in-one workspace",
+          "url": "https://www.notion.so/",
+          "icon": "i-logos-notion-icon"
+        },
+        {
+          "name": "Obsidian",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Knowledge base and note-taking",
+          "url": "https://obsidian.md/",
+          "icon": "i-logos-obsidian-icon"
+        },
+        {
+          "name": "GSuite",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Google's productivity suite",
+          "url": "https://workspace.google.com/",
+          "icon": "i-logos-google-icon"
+        },
+        {
+          "name": "Microsoft 365",
+          "type": "skill",
+          "inGroup": ["Project Management"],
+          "description": "Microsoft's productivity suite",
+          "url": "https://www.microsoft.com/microsoft-365",
+          "icon": "i-logos-microsoft-icon"
+        },
+        {
+          "name": "WordPress",
+          "type": "skill",
+          "inGroup": ["CMS"],
+          "description": "Website and blog management system",
+          "url": "https://wordpress.org/",
+          "icon": "i-logos-wordpress-icon"
+        },
+        {
+          "name": "Strapi",
+          "type": "skill",
+          "inGroup": ["CMS"],
+          "description": "Headless CMS for developers",
+          "url": "https://strapi.io/",
+          "icon": "i-logos-strapi-icon"
+        },
+        {
+          "name": "Shopify",
+          "type": "skill",
+          "inGroup": ["CMS"],
+          "description": "E-commerce platform",
+          "url": "https://www.shopify.com/",
+          "icon": "i-logos-shopify"
+        },
+        {
+          "name": "Stripe",
+          "type": "skill",
+          "inGroup": ["payment"],
+          "description": "Online payment processing",
+          "url": "https://stripe.com/",
+          "icon": "i-logos-stripe"
+        },
+        {
+          "name": "PayPal",
+          "type": "skill",
+          "inGroup": ["payment"],
+          "description": "Online payment system",
+          "url": "https://www.paypal.com/",
+          "icon": "i-logos-paypal"
+        }
+      ]
+    }
+  ]
+}

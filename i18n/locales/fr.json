@@ -1,0 +1,45 @@
+{
+  "welcome": "Bienvenue dans l'application",
+  "aboutMe": {
+    "greeting": "Salut, je suis",
+    "role": "Ingénieur Logiciel",
+    "country": "d'Albanie",
+    "description": "spécialisé dans la concrétisation d'idées innovantes. Avec une expertise en",
+    "and": "et",
+    "techDescription": "Je crée des interfaces web visuellement attrayantes et conviviales, en veillant à ce que chaque projet soit esthétique et offre une expérience utilisateur fluide.",
+    "personalInterests": "Au-delà de mon parcours professionnel, j'aime voyager, faire du vélo, écouter des podcasts et regarder des courts documentaires. Ces intérêts alimentent ma curiosité et enrichissent la perspective que j'apporte à mon travail.",
+    "callToAction": "Si vous cherchez quelqu'un de dévoué pour réfléchir et transformer des idées en réalité, connectons-nous.",
+    "connectButton": "Connectons-nous"
+  },
+  "error": "Erreur!",
+  "navigation": {
+    "about": "À Propos",
+    "skills": "Compétences & Outils",
+    "projects": "Projets",
+    "contact": "Contactez-moi"
+  },
+  "theme": {
+    "switchTheme": "Changer le thème",
+    "switchLanguage": "Changer la langue",
+    "changeColor": "Changer la couleur",
+    "modes": {
+      "light": "Clair",
+      "dark": "Sombre"
+    },
+    "languages": {
+      "al": "Albanais",
+      "en": "Anglais",
+      "fr": "Français"
+    },
+    "colors": {
+      "sky": "Ciel",
+      "red": "Rouge",
+      "teal": "Bleu sarcelle",
+      "yellow": "Jaune"
+    }
+  },
+  "common": {
+    "wip": "Travail en Cours",
+    "demo": "Démo"
+  }
+}
